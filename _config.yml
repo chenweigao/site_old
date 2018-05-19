@@ -75,10 +75,10 @@ gitalk:
 # ga_tracking_id:  #Google analytics id for the site
 
 ## Reading quantity (LeanCloud) ##
-leancloud:
-  app_id: wJrq8Ck2MqeaFzOYUf0TcP6G-gzGzoHsz #LeanCloud App id
-  app_key: taRHm1fEce4nGp2lmNgkiW9U  #LeanCloud App key
-  app_class: blog #LeanCloud App class
+# leancloud:
+#   app_id: wJrq8Ck2MqeaFzOYUf0TcP6G-gzGzoHsz #LeanCloud App id
+#   app_key: taRHm1fEce4nGp2lmNgkiW9U  #LeanCloud App key
+#   app_class: blog #LeanCloud App class
 
 # mathjax: true
 # mathjax_autoNumber: true
