@@ -17,13 +17,11 @@ Linux Developer
 - **Blog**: [https://weigao.cc](https://www.weigao.cc)
 - **GitHub**: [chenweigao](https://github.com/chenweigao)
 
-
-Summary
----------------
-
 I'm a master's candidate of Department of Computer Science and Engineering, Xidian University. 
 
-Now, I am doing research in Computer Communications ( Networks)
+Now, I am doing research in Computer Communications ( Networks).
+
+{:.info}
 
 
 Specialties
