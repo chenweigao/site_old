@@ -15,7 +15,7 @@ text_color_theme: default #eg: default | dark | forest | ocean | chocolate | ora
 ## Base settings ##
 url: https://www.weigao.cc #the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl: /
-title: Nerche Note
+title: CHENER
 description: > #this means to ignore newlines until "nav_lists:"
   Weigao's Blog
 

@@ -25,5 +25,7 @@ Four Layers of TCP/IP model.
 
 **Tips:** HOST means Domain or IP address.
 
+TCP and UDP could use a same port in a host without conflict.
+
 
 
