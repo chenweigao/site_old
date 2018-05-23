@@ -19,9 +19,7 @@ Linux Developer
 
 I'm a master's candidate of Department of Computer Science and Engineering, Xidian University. 
 
-Now, I am doing research in Computer Communications ( Networks).
-
-{:.info}
+Now, I am doing research in Computer Communications ( Networks).{:.info}
 
 
 Specialties
