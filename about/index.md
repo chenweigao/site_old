@@ -10,16 +10,17 @@ titles:
 Linux Developer
 -------------------------
 
-
-
 - **Phone**: [13201750172](tel://13201750172)
 - **Email**: <mail@weigao.cc>
 - **Blog**: [https://weigao.cc](https://www.weigao.cc)
 - **GitHub**: [chenweigao](https://github.com/chenweigao)
 
-I'm a master's candidate of Department of Computer Science and Engineering, Xidian University. 
+Summary
+--------
 
-Now, I am doing research in Computer Communications ( Networks).{:.info}
+I'm a master's candidate of Department of Computer Science and Engineering, Xidian University. Now, I am doing research in Computer Communications ( Networks).
+
+{:.info}
 
 
 Specialties
