@@ -7,17 +7,7 @@ tags: Research
 mermaid: true
 ---
 
-```mermaid
-graph TB;
-    A[Application Layer]
-    B[Transport Layer]
-    C[Internet Layer]
-    D[Network Access Layer]
-   
-    A --> B
-    B --> C
-    C --> D
-```
+![network1]({{ site.url }}/assets/network1.png)
 
 Four Layers of TCP/IP model.
 
@@ -26,4 +16,14 @@ Four Layers of TCP/IP model.
 <!--more-->
 
 # TCP/IP
+
+## Model
+
+
+
+## TCP&UDP
+
+**Tips:** HOST means Domain or IP address.
+
+
 
