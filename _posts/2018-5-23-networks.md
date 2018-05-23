@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Networks - TCP/IP and HTTP Protocol, Socket"
-key: newcpp
-modify_date: 2018-5-23
-tags: C++
+key: networks
+modify_date: 2018-05-23
+tags: Research
 mermaid: true
 ---
 
@@ -19,8 +19,11 @@ graph TB;
     C --> D
 ```
 
-Four Layers of TCP/IP model
+Four Layers of TCP/IP model.
 
 {:.success}
 
 <!--more-->
+
+# TCP/IP
+
