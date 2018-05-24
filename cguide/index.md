@@ -3,6 +3,8 @@ layout: page
 title: C语言实训上机指导(4)
 ---
 
+![cguide]({{ site.url }}/assets/cguide.png)
+
 # 1. 多项式相加
 
 实现方法：
@@ -74,5 +76,12 @@ polynomial merge(polynomial a, polynomial b){
    目标文件是什么？**编译器编译源代码后生成的文件**。
 
    可执行文件分为两种：PE(Windows)，ELF(Linux)，目标文件.obj(Windows)和.o(Linux)跟可执行文件的结构基本相同。
+
+   ```shell
+   file xxx.o
+   gcc -c SimpleSection.c
+   objdump -h SimpleSection.o
+   readelf -h SimpleSection.o
+   ```
 
    
