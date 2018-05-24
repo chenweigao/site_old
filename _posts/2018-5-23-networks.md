@@ -25,7 +25,19 @@ Four Layers of TCP/IP model.
 
 **Tips:** HOST means Domain or IP address.
 
-TCP and UDP could use a same port in a host without conflict.
+TCP(20bits) and UDP(8bits) could use a same port in a host without conflict.
 
+# HTTP
 
+## Request and Response
+
+Request:
+
+```html
+GET /hello.txt HTTP/1.1
+Host: www.mysite.com
+Accept-Language: en
+```
+
+Response:
 
