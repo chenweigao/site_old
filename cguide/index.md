@@ -51,5 +51,28 @@ polynomial merge(polynomial a, polynomial b){
    |      1      |       5       |
    |      2      |       9       |
 
+   ```c++
+   polynomial a, b;
+      
+   a[0] = 13;
+   a.insert({{1, 5}, {2, 9}}); //c++11
    
+   b[1] = 10;
+   b[2] = 20;
+   b.insert(std::pair<int, int>(3, 30));
+   ```
 
+   多项式计算如下: 
+   $$
+   y_1=13x^0 + 5x^1 +9x^2 \\
+   y_2=10x^1 + 20x^2 + 30x^3\\
+   y_1+y_2 = 13x^0 +15x^1 +29x^2 +30x^3
+   $$
+
+   # 2. 目标文件
+
+   目标文件是什么？**编译器编译源代码后生成的文件**。
+
+   可执行文件分为两种：PE(Windows)，ELF(Linux)，目标文件.obj(Windows)和.o(Linux)跟可执行文件的结构基本相同。
+
+   
