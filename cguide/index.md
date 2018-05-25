@@ -1,13 +1,16 @@
 ---
-layout: page
+layout: post
 title: C语言实训上机指导(4)
+date: 2018-5-25
+modify_date: 2018-5-25
+mathjax: true
 ---
 
 ![cguide]({{ site.url }}/assets/cguide.png)
 
 # 1. 多项式相加
 
-实现方法：
+有两种实现方法：
 
 ## 1. 链表
 
@@ -19,9 +22,7 @@ struct pnode *next; //指向下一项的指针
 } PolyNode;
 ```
 
-需要使用到的操作
-
-[^多项式求和]: [参考链接]()https://blog.csdn.net/sxhelijian/article/details/48392779
+需要使用到的操作[参考链接](https://blog.csdn.net/sxhelijian/article/details/48392779):
 
 - 遍历单链表，从大到小
 - 指数相等时相加，不相等时比较大小
@@ -71,20 +72,24 @@ polynomial merge(polynomial a, polynomial b){
    |      0      |      13       |
    |      1      |       5       |
    |      2      |       9       |
-{% highlight c++ %}
-polynomial a, b;
-a[0] = 13;
-{% raw %}
-a.insert({{1, 5}, {2, 9}}); //c++11
-{% endraw %}
-b[1] = 10;
-b[2] = 20;
-b.insert(std::pair<int, int>(3, 30));
-{% endhighlight %}
+   {% highlight c++ %}
+   polynomial a, b;
+   a[0] = 13;
+   {% raw %}
+   a.insert({{1, 5}, {2, 9}}); //c++11
+   {% endraw %}
+   b[1] = 10;
+   b[2] = 20;
+   b.insert(std::pair<int, int>(3, 30));
+   {% endhighlight %}
 
    多项式计算如下: 
+   $$
+      y_1=13x^0 + 5x^1 +9x^2 \\
+      y_2=10x^1 + 20x^2 + 30x^3\\
+      y_1+y_2 = 13x^0 +15x^1 +29x^2 +30x^3
+   $$
 
-![y1+y2]({{ site.url }}/assets/CodeCogsEqn.png)
 
 
 # 2. 目标文件
@@ -147,3 +152,4 @@ objdump -h SimpleSection.o
 size SimpleSection.o
 ```
 
+etc.
