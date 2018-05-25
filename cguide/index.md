@@ -57,7 +57,7 @@ polynomial merge(polynomial a, polynomial b){
 
    polynomial a, b;
    a[0] = 13;
-   a.insert({{1, 5}, {2, 9}}); //c++11
+   a.insert(\{\{1, 5\}, \{2, 9\}\}); //c++11
 
    b[1] = 10;
    b[2] = 20;
