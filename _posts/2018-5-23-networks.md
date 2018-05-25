@@ -7,11 +7,11 @@ tags: Research
 mermaid: true
 ---
 
-![network1]({{ site.url }}/assets/network1.png)
+
 
 Four Layers of TCP/IP model.
 
-{:.warning} 
+{:.success} 
 
 <!--more-->
 
@@ -19,7 +19,7 @@ Four Layers of TCP/IP model.
 
 ## Model
 
-
+![network1]({{ site.url }}/assets/network1.png)
 
 ## TCP&UDP
 

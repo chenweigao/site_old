@@ -9,27 +9,8 @@ title: C语言实训上机指导(4)
 
 实现方法：
 
-## 1. 链表
-
-```c
-typedef struct pnode { 
-double coef; //系数
-int exp; //指数
-struct pnode *next; //指向下一项的指针 
-} PolyNode;
-```
-
-需要使用到的操作
-
-[多项式求和]: https://blog.csdn.net/sxhelijian/article/details/48392779	"链表解法"
-
-- 遍历单链表，从大到小
-- 指数相等时相加，不相等时比较大小
-- 删除链表
-- 链表头插法
-- 链表尾插法
-
-## 2. map
+1. 链表
+2. map
 
 ```c++
 map<int, int> polynomial;
@@ -71,16 +52,16 @@ polynomial merge(polynomial a, polynomial b){
    |      0      |      13       |
    |      1      |       5       |
    |      2      |       9       |
-{% highlight c++ %}
-polynomial a, b;
-a[0] = 13;
-{% raw %}
-a.insert({{1, 5}, {2, 9}}); //c++11
-{% endraw %}
-b[1] = 10;
-b[2] = 20;
-b.insert(std::pair<int, int>(3, 30));
-{% endhighlight %}
+   {% highlight c++ %}
+   polynomial a, b;
+   a[0] = 13;
+   {% raw %}
+   a.insert({{1, 5}, {2, 9}}); //c++11
+   {% endraw %}
+   b[1] = 10;
+   b[2] = 20;
+   b.insert(std::pair<int, int>(3, 30));
+   {% endhighlight %}
 
    多项式计算如下: 
 
@@ -146,4 +127,3 @@ objdump -h SimpleSection.o
 ```shell
 size SimpleSection.o
 ```
-
