@@ -52,17 +52,16 @@ polynomial merge(polynomial a, polynomial b){
    |      0      |      13       |
    |      1      |       5       |
    |      2      |       9       |
-
-```c++
-
+{% highlight c++ %}
    polynomial a, b;
    a[0] = 13;
+{% raw %}
    a.insert(\{\{1, 5\}, \{2, 9\}\}); //c++11
-
-   b[1] = 10;
-   b[2] = 20;
-   b.insert(std::pair<int, int>(3, 30));
-```
+{% endraw %}
+b[1] = 10;
+b[2] = 20;
+b.insert(std::pair<int, int>(3, 30));
+{% endhighlight %}
 
    多项式计算如下: 
 $$
