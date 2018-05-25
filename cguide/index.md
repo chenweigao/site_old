@@ -21,7 +21,7 @@ struct pnode *next; //指向下一项的指针
 
 需要使用到的操作
 
-[多项式求和]: https://blog.csdn.net/sxhelijian/article/details/48392779	"链表解法"
+[^多项式求和]: [参考链接]()https://blog.csdn.net/sxhelijian/article/details/48392779
 
 - 遍历单链表，从大到小
 - 指数相等时相加，不相等时比较大小

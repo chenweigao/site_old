@@ -1,6 +1,9 @@
 ---
-layout: page
+layout: post
 title: C语言实训上机指导(4)
+date: 2018-5-25
+modify_date: 2018-5-25
+mathjax: true
 ---
 
 ![cguide]({{ site.url }}/assets/cguide.png)
@@ -64,6 +67,12 @@ polynomial merge(polynomial a, polynomial b){
    {% endhighlight %}
 
    多项式计算如下: 
+   $$
+   y_1=13x^0 + 5x^1 +9x^2 \\
+   y_2=10x^1 + 20x^2 + 30x^3\\
+   y_1+y_2 = 13x^0 +15x^1 +29x^2 +30x^3
+   $$
+   
 
 ![y1+y2]({{ site.url }}/assets/CodeCogsEqn.png)
 
