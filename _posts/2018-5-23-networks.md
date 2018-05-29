@@ -9,9 +9,7 @@ mermaid: true
 
 
 
-Four Layers of TCP/IP model.
-
-{:.success} 
+Four Layers of TCP/IP model.{:.success} 
 
 <!--more-->
 
@@ -41,8 +39,6 @@ Accept-Language: en
 
 Response:
 
-
-
 ## TCP socket
 
 ![socket]({{ site.url }}/assets/socket.png)
@@ -52,6 +48,8 @@ Response:
 Note that if the client is the type of `str`, the `encode()` it:
 
 ```python
+    message = "Current time is " + str(dt)
+    conn.send(message.encode())
 ```
 
 # HTML
@@ -62,17 +60,16 @@ Note that if the client is the type of `str`, the `encode()` it:
 
 1. 文本输入
 
-   |          |                             |
-   | -------- | --------------------------- |
-   | 单行文本 | ` <input type="text"> `     |
-   | 多行文本 | `<textarea>`                |
-   | 密码框   | ` <input type="password"> ` |
+   |          | [source code](https://github.com/chenweigao/python_web/blob/master/HTML/form.html) |
+   | -------- | ------------------------------------------------------------ |
+   | 单行文本 | ` <input type="text"> `                                      |
+   | 多行文本 | `<textarea>`                                                 |
+   | 密码框   | ` <input type="password"> `                                  |
 
 2. 选择
 
-    |            |                                            |
-    | ---------- | ------------------------------------------ |
-    | 单选(单点) | ` <input type="radio" checked="checked"> ` |
-    | 单选(下拉) | `<select>`and `<option>`                   |
-    | 多选       | ` <input type="checkbox">`                 |
-
+    |            | [source code](https://github.com/chenweigao/python_web/blob/master/HTML/form.html) |
+    | ---------- | ------------------------------------------------------------ |
+    | 单选(单点) | ` <input type="radio" checked="checked"> `                   |
+    | 单选(下拉) | `<select>`and `<option>`                                     |
+    | 多选       | ` <input type="checkbox">`                                   |
