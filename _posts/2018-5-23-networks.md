@@ -41,3 +41,6 @@ Accept-Language: en
 
 Response:
 
+## TCP socket
+
+![socket]({{ site.url }}/assets/socket.png)
