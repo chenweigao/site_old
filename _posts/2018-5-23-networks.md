@@ -41,6 +41,38 @@ Accept-Language: en
 
 Response:
 
+
+
 ## TCP socket
 
 ![socket]({{ site.url }}/assets/socket.png)
+
+[Code in Github](https://github.com/chenweigao/python_web/tree/master/socket)
+
+Note that if the client is the type of `str`, the `encode()` it:
+
+```python
+```
+
+# HTML
+
+## HTML Form
+
+**HTML表单**用于客户端收集用户在浏览器的输入，分别为：
+
+1. 文本输入
+
+   |          |                             |
+   | -------- | --------------------------- |
+   | 单行文本 | ` <input type="text"> `     |
+   | 多行文本 | `<textarea>`                |
+   | 密码框   | ` <input type="password"> ` |
+
+2. 选择
+
+    |            |                                            |
+    | ---------- | ------------------------------------------ |
+    | 单选(单点) | ` <input type="radio" checked="checked"> ` |
+    | 单选(下拉) | `<select>`and `<option>`                   |
+    | 多选       | ` <input type="checkbox">`                 |
+
