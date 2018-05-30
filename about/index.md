@@ -7,7 +7,7 @@ titles:
   zh-Hant: 關於
 ---
 
-Linux Developer
+An Ordinary Coder
 -------------------------
 
 - **Phone**: [13201750172](tel://13201750172)
@@ -64,7 +64,8 @@ denoted with a ^†^ symbol.
 
 ### Markup/Templating Languages & Preprocessors
 
-- [HTML](http://developers.whatwg.org)
+- [HTML](http://developers.whatwg.org), CSS, JavaScript
+- jQuery
 - [Markdown](http://daringfireball.net/projects/markdown)^†^
 
 ### Frameworks & APIs
