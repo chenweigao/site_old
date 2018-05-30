@@ -9,7 +9,9 @@ mermaid: true
 
 
 
-Four Layers of TCP/IP model.{:.success} 
+Four Layers of TCP/IP model.
+
+{:.warning} 
 
 <!--more-->
 
@@ -48,8 +50,8 @@ Response:
 Note that if the client is the type of `str`, the `encode()` it:
 
 ```python
-    message = "Current time is " + str(dt)
-    conn.send(message.encode())
+message = "Current time is " + str(dt)
+conn.send(message.encode())
 ```
 
 # HTML
@@ -73,3 +75,27 @@ Note that if the client is the type of `str`, the `encode()` it:
     | 单选(单点) | ` <input type="radio" checked="checked"> `                   |
     | 单选(下拉) | `<select>`and `<option>`                                     |
     | 多选       | ` <input type="checkbox">`                                   |
+
+## jQuery
+
+使用jQuery:
+
+```html
+ <script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+```
+
+Tips: `src`的内容需查找最新的加以替换。
+
+在Javascript中调用jQuery:
+
+```javascript
+$(selector).action()
+```
+
+例如：
+
+```html
+<button type="button" onclick="$('p').toggle();">Toggle the message</button>
+```
+
+意义为选择所有的`<p>`标签，并对其进行`toggle()`操作，对元素进行隐藏、显示。
