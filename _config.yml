@@ -27,11 +27,11 @@ nav_lists:
       zh-Hant: 關於
     url: /about
 
-# paths:
-#   base: /home
-#   home: /index.html
-#   all:  /all.html
-#   rss:  /feed.xml
+paths:
+  base: /blog
+  home: /
+  all:  /blog/all.html
+  rss:  /feed.xml
 
 ## GitHub repository (if the site is hosted by GitHub) ##
 repository: chenweigao/chenweigao.github.io  #e.g. someone/someone.github.io
