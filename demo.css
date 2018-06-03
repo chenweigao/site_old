@@ -46,7 +46,8 @@ p a {
   text-underline-position: under
 }
 a:hover{
-  color: #fc4d50
+  color: #fc4d50;
+  text-decoration: none
 }
 p a:focus, p a:hover {
   color: #36c
