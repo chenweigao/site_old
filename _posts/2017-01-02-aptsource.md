@@ -8,22 +8,7 @@ tags:
 comment: true
 modify_date: 2018-03-17
 ---
-Source of Aliyun:
-
-{% highlight shell %}
-
-deb http://mirrors.aliyun.com/ubuntu/ trusty main multiverse restricted universe
-deb http://mirrors.aliyun.com/ubuntu/ trusty-backports main multiverse restricted universe
-deb http://mirrors.aliyun.com/ubuntu/ trusty-proposed main multiverse restricted universe
-deb http://mirrors.aliyun.com/ubuntu/ trusty-security main multiverse restricted universe
-deb http://mirrors.aliyun.com/ubuntu/ trusty-updates main multiverse restricted universe
-deb-src http://mirrors.aliyun.com/ubuntu/ trusty main multiverse restricted universe
-deb-src http://mirrors.aliyun.com/ubuntu/ trusty-backports main multiverse restricted universe
-deb-src http://mirrors.aliyun.com/ubuntu/ trusty-proposed main multiverse restricted universe
-deb-src http://mirrors.aliyun.com/ubuntu/ trusty-security main multiverse restricted universe
-deb-src http://mirrors.aliyun.com/ubuntu/ trusty-updates main multiverse restricted universe
-
-{% endhighlight %}
+Source:[USTC](http://mirrors.ustc.edu.cn/)
 
 <!--more-->
 
