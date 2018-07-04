@@ -10,13 +10,13 @@ mathjax: true
 
 ---
 
-  <!--more-->
-
-# Signal fade
 
 The presence of reflectors in the environment surrounding a transmitter and receiver create multiple paths that a transmitted signal can traverse.
 
 As a result, the receiver sees the [superposition](https://en.wikipedia.org/wiki/Superposition_principle) of multiple copies of the transmitted signal, each traversing a different path. Each signal copy will experience differences in [attenuation](https://en.wikipedia.org/wiki/Attenuation), [delay](https://en.wikipedia.org/wiki/Propagation_delay) and [phase shift](https://en.wikipedia.org/wiki/Phase_(waves)) while travelling from the source to the receiver. This can result in either constructive or destructive interference, amplifying or attenuating the signal power seen at the receiver. Strong destructive interference is frequently referred to as a **deep fade** and may result in temporary failure of communication due to a severe drop in the channel [signal-to-noise ratio](https://en.wikipedia.org/wiki/Signal-to-noise_ratio).
+
+  <!--more-->
+# Signal fade
 
 # Two abservations
 
