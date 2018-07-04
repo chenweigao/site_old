@@ -28,8 +28,8 @@ nav_lists:
     url: /about
 
 paths:
-  base: /blog
-  home: /
+  base: /
+  home: /blog
   all:  /blog/all.html
   rss:  /feed.xml
 
