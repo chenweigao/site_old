@@ -1,6 +1,6 @@
 NAV:
   HOME:
-    en:      "POSTS"
+    en:      "HOME"
     zh:      "主页"
     zh-Hans: "主页"
     zh-Hant: "主頁"
@@ -16,7 +16,7 @@ NAV:
     zh-Hant: "RSS"
 
 READMORE:
-  en:      ""
+  en:      "more..."
   zh:      "点我阅读更多..."
   zh-Hans: "点我阅读更多..."
   zh-Hant: "「點我閱讀更多」"
