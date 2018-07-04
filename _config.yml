@@ -59,17 +59,17 @@ toc:
 
 ## Comment system (Disqus) ##
 disqus:
-  # shortname:  #the Disqus shortname for the site
+  shortname: weigao #the Disqus shortname for the site
 
 ## Comment system (gitalk) ##
 # please refer to https://github.com/gitalk/gitalk for more info.
-gitalk:
-  clientID: d0b1e8734e879665dfc5 #Github Application Client ID
-  clientSecret: 9eaf06b6821fc117284c4d555ee43287f0f7bd04 #Github Application Client Secret
-  repository: gitalk #Github repo
-  owner: chenweigao #Github repo owner
-  admin: #Github repo owner and collaborators, only these guys can initialize github issues, IT IS A LIST.
-    - chenweigao
+# gitalk:
+#   clientID: d0b1e8734e879665dfc5 #Github Application Client ID
+#   clientSecret: 9eaf06b6821fc117284c4d555ee43287f0f7bd04 #Github Application Client Secret
+#   repository: gitalk #Github repo
+#   owner: chenweigao #Github repo owner
+#   admin: #Github repo owner and collaborators, only these guys can initialize github issues, IT IS A LIST.
+#     - chenweigao
 
 ## Google Analytics ##
 ga_tracking_id: UA-119753118-1 #Google analytics id for the site
