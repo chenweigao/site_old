@@ -10,54 +10,35 @@ titles:
 An Ordinary Coder
 -------------------------
 
-- **Phone**: [13201750172](tel://13201750172)
 
-- **Email**: <mail@weigao.cc>
 
-- **Blog**: [https://weigao.cc](https://www.weigao.cc)
-
-- **GitHub**: [chenweigao](https://github.com/chenweigao)
-
-- |       |                                            |        |                                             |
-  | :---: | :----------------------------------------: | :----: | :-----------------------------------------: |
-  | Phone |      [13201750172](tel://13201750172)      | Email  |              <mail@weigao.cc>               |
-  | Blog  | [https://weigao.cc](https://www.weigao.cc) | Github | [chenweigao](https://github.com/chenweigao) |
-
-  
+| Contact |                                            |        |                                             |      |           |
+| :-----: | :----------------------------------------: | :----: | :-----------------------------------------: | :--: | :-------: |
+|  Phone  |      [13201750172](tel://13201750172)      | Email  |              <mail@weigao.cc>               |  QQ  | 297859260 |
+|  Blog   | [https://weigao.cc](https://www.weigao.cc) | Github | [chenweigao](https://github.com/chenweigao) |      |           |
 
 Summary
 --------
 
-I'm a master's candidate of Department of Computer Science and Engineering, Xidian University. Now, I am doing research in Computer Communications ( Networks).
-
-{:.info}
+`Null;`
 
 
 Specialties
 -------
 
 Authoring great user experiences with Python, C++, and Linux. Advocating for the open web. Managing and mentoring dev teams. Performing code reviews.
-Writing white papers and API documentation. Particating in the black art of software estimation. Drawing from a strong background in many diverse web technologies and frameworks.
+	Writing white papers and API documentation. Particating in the black art of software estimation. Drawing from a strong background in many diverse web technologies and frameworks.
 
 
 Experience
 -------
 
-### **Deeplearning**, [Xidian University](http://www.xidian.edu.cn/)
-
-*April 2017 - Auguest 2017*
-
-Face Recognition System to check attendance, include CNN, YOLO algorithm for a Python application.
-
-*September  2017 - October 2017*
-
-Implemented MNIST, based on CNN.
-
-### **Personal Blog** in [GitHub Pages](https://pages.github.com/)
-
-*March 2018 - now*
-
-A personal profile Implemented with [Jekyll](https://jekyllrb.com/), [*the document*](https://www.weigao.cc/2018/02/02/jekyll.html); Enforce HTTPS(Let's Encrypt) and use a custom domain name.
+| **Deeplearning**, [Xidian University](http://www.xidian.edu.cn/) |                                  |
+| ------------------------------------------------------------ | :------------------------------- |
+| Implemented MNIST, based on CNN.                             | *September  2017 - October 2017* |
+| Face Recognition System to check attendance, include CNN, YOLO algorithm for a Python application. | *April 2017 - Auguest 2017*      |
+| **Personal Blog** in [GitHub Pages](https://pages.github.com/), [weigao.cc](http://weigao.cc) |                                  |
+| A personal profile Implemented with [Jekyll](https://jekyllrb.com/), [*the document*](https://www.weigao.cc/2018/02/02/jekyll.html); Enforce HTTPS(Let's Encrypt) and use a custom domain name. | *March 2018 - now*               |
 
 Skills & Expertise
 ------------------
@@ -85,8 +66,7 @@ Education
 Honors and Awards
 -----------------
 
-*Unsung Hero*, Empathy Lab, May 2011    
-A peer-awarded honor which I'll always be terribly proud to have won.
+`return -1;`
 
 
 Interests
