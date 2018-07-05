@@ -12,10 +12,10 @@ An Ordinary Coder
 
 
 
-| Contact |                                            |        |                                             |      |           |
-| :-----: | :----------------------------------------: | :----: | :-----------------------------------------: | :--: | :-------: |
-|  Phone  |      [13201750172](tel://13201750172)      | Email  |              <mail@weigao.cc>               |  QQ  | 297859260 |
-|  Blog   | [https://weigao.cc](https://www.weigao.cc) | Github | [chenweigao](https://github.com/chenweigao) |      |           |
+| Contact |                                  |        |                                             |      |                                            |
+| :-----: | :------------------------------: | :----: | :-----------------------------------------: | :--: | :----------------------------------------: |
+|  Phone  | [13201750172](tel://13201750172) | Email  |              <mail@weigao.cc>               | Blog | [https://weigao.cc](https://www.weigao.cc) |
+|   QQ    |            297859260             | Github | [chenweigao](https://github.com/chenweigao) |      |                                            |
 
 Summary
 --------
