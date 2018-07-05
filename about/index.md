@@ -11,9 +11,19 @@ An Ordinary Coder
 -------------------------
 
 - **Phone**: [13201750172](tel://13201750172)
+
 - **Email**: <mail@weigao.cc>
+
 - **Blog**: [https://weigao.cc](https://www.weigao.cc)
+
 - **GitHub**: [chenweigao](https://github.com/chenweigao)
+
+- |       |                                            |        |                                             |
+  | :---: | :----------------------------------------: | :----: | :-----------------------------------------: |
+  | Phone |      [13201750172](tel://13201750172)      | Email  |              <mail@weigao.cc>               |
+  | Blog  | [https://weigao.cc](https://www.weigao.cc) | Github | [chenweigao](https://github.com/chenweigao) |
+
+  
 
 Summary
 --------
@@ -53,35 +63,17 @@ Skills & Expertise
 ------------------
 
 These are languages, tools, and practices to which I have had exposure over the
-past 6 years or so. Those things which enjoy routine usage in my daily work are
-denoted with a ^†^ symbol.
+past 6 years or so. 
 
-### Programming Languages
-
-- [Python](https://www.weigao.cc/all?tag=Python)^†^
-- [Shell Script](https://github.com/chenweigao/_code/tree/master/Test_Shell)^†^
-- [C/C++](https://www.weigao.cc/2018/04/19/newcpp.html)
-
-### Markup/Templating Languages & Preprocessors
-
-- [HTML](http://developers.whatwg.org), CSS, JavaScript
-- jQuery
-- [Markdown](http://daringfireball.net/projects/markdown)^†^
-
-### Frameworks & APIs
-
-- [Django](https://github.com/chenweigao/djangosite)
-- [Flask](https://www.weigao.cc/2018/04/13/flask.html)
-- [Tensorflow](https://www.weigao.cc/all?tag=Deeplearning)^†^
-- Keras
-- [Jekyll](https://www.weigao.cc/2018/02/02/jekyll.html)^†^
-
-### Software & Tools
-
-- [Ubuntu Linux](https://www.weigao.cc/all?tag=Linux)^†^†^
-- [Git](https://www.weigao.cc/2018/02/01/git.html)^†^
-- [Bash](https://www.weigao.cc/2018/03/31/shell)
-- [VS code](https://code.visualstudio.com/)^†^
+|             Skills & Expertise              |                            Detail                            |
+| :-----------------------------------------: | :----------------------------------------------------------: |
+|            Programming Languages            | [Python](https://www.weigao.cc/all?tag=Python), [C/C++](https://www.weigao.cc/2018/04/19/newcpp.html) |
+|                Deeplearning                 | [Tensorflow](https://www.weigao.cc/all?tag=Deeplearning)^, Keras, [Jekyll](https://www.weigao.cc/2018/02/02/jekyll.html) |
+|                    Linux                    | [Shell Script](https://github.com/chenweigao/_code/tree/master/Test_Shell) |
+| Markup/Templating Languages & Preprocessors | [HTML](http://developers.whatwg.org), CSS, [Markdown](http://daringfireball.net/projects/markdown) |
+|            Python Web Frameworks            | [Django](https://github.com/chenweigao/djangosite), [Flask](https://www.weigao.cc/2018/04/13/flask.html) |
+|                    Tools                    |       [Git](https://www.weigao.cc/2018/02/01/git.html)       |
+|               Computer Theory               |                     Informatics & Coding                     |
 
 
 Education
