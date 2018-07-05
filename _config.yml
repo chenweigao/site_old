@@ -86,7 +86,7 @@ ga_tracking_id: UA-119753118-1 #Google analytics id for the site
 # chart: true
 
 ## Paginate ##
-paginate: 7
+paginate: 9
 paginate_path: /blog/page:num
 
 ## Post excerpts ##
