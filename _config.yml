@@ -21,7 +21,7 @@ description: > #this means to ignore newlines until "nav_lists:"
 
 nav_lists:
   - titles:
-      en: ABOUT
+      en: About
       zh: 关于
       zh-Hans: 关于
       zh-Hant: 關於
@@ -58,18 +58,18 @@ toc:
   # selectors: 'h1,h2,h3'
 
 ## Comment system (Disqus) ##
-disqus:
-  shortname: weigao #the Disqus shortname for the site
+# disqus:
+#   shortname: weigao #the Disqus shortname for the site
 
-## Comment system (gitalk) ##
+# Comment system (gitalk) ##
 # please refer to https://github.com/gitalk/gitalk for more info.
-# gitalk:
-#   clientID: d0b1e8734e879665dfc5 #Github Application Client ID
-#   clientSecret: 9eaf06b6821fc117284c4d555ee43287f0f7bd04 #Github Application Client Secret
-#   repository: gitalk #Github repo
-#   owner: chenweigao #Github repo owner
-#   admin: #Github repo owner and collaborators, only these guys can initialize github issues, IT IS A LIST.
-#     - chenweigao
+gitalk:
+  clientID: d0b1e8734e879665dfc5 #Github Application Client ID
+  clientSecret: 9eaf06b6821fc117284c4d555ee43287f0f7bd04 #Github Application Client Secret
+  repository: gitalk #Github repo
+  owner: chenweigao #Github repo owner
+  admin: #Github repo owner and collaborators, only these guys can initialize github issues, IT IS A LIST.
+    - chenweigao
 
 ## Google Analytics ##
 ga_tracking_id: UA-119753118-1 #Google analytics id for the site
