@@ -12,10 +12,12 @@ An Ordinary Coder
 
 
 
-| Contact |                                  |        |                                             |      |                                            |
-| :-----: | :------------------------------: | :----: | :-----------------------------------------: | :--: | :----------------------------------------: |
-|  Phone  | [13201750172](tel://13201750172) | Email  |              <mail@weigao.cc>               | Blog | [https://weigao.cc](https://www.weigao.cc) |
-|   QQ    |            297859260             | Github | [chenweigao](https://github.com/chenweigao) |      |                                            |
+| Contact |                    Value                    |
+| :-----: | :-----------------------------------------: |
+|  Phone  |      [13201750172](tel://13201750172)       |
+|  Blog   | [https://weigao.cc](https://www.weigao.cc)  |
+|  Email  |              <mail@weigao.cc>               |
+| Github  | [chenweigao](https://github.com/chenweigao) |
 
 Summary
 --------
@@ -33,9 +35,10 @@ Authoring great user experiences with Python, C++, and Linux. Advocating for the
 Experience
 -------
 
+|                      Project Experience                      |                                  |
+| :----------------------------------------------------------: | :------------------------------- |
 | **Deeplearning**, [Xidian University](http://www.xidian.edu.cn/) |                                  |
-| ------------------------------------------------------------ | :------------------------------- |
-| Implemented MNIST, based on CNN.                             | *September  2017 - October 2017* |
+|               Implemented MNIST, based on CNN.               | *September  2017 - October 2017* |
 | Face Recognition System to check attendance, include CNN, YOLO algorithm for a Python application. | *April 2017 - Auguest 2017*      |
 | **Personal Blog** in [GitHub Pages](https://pages.github.com/), [weigao.cc](http://weigao.cc) |                                  |
 | A personal profile Implemented with [Jekyll](https://jekyllrb.com/), [*the document*](https://www.weigao.cc/2018/02/02/jekyll.html); Enforce HTTPS(Let's Encrypt) and use a custom domain name. | *March 2018 - now*               |
