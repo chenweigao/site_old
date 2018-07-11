@@ -5,6 +5,7 @@ key: acm
 tags:
   - Algorithm
 comment: true
+mathjax: true
 ---
 
 ACM, the world's largest educational and scientific computing society, delivers resources that advance computing as a science and a profession. ACM provides the computing field's premier Digital Library and serves its members and the computing profession with leading-edge publications, conferences, and career resources.
@@ -55,4 +56,3 @@ Let $a \geq 1$ and $b > 1$ be constants and let $T(n)$ be the recurrence $T(n) =
 1. If $a > b^k$, then $T(n) = \Theta(n^ {log_{a}b})$.
 2. If $a = b^k$, then $T(n) = \Theta(n^ k{logn})$.
 3. If $a < b^k$ then $T(n) = \Theta(n^k)$.
-
