@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notes - An introduction to algorithmic competition
+title: Algorithm Basics
 key: acm
 tags:
   - Algorithm
@@ -9,9 +9,10 @@ comment: true
 
 ACM, the world's largest educational and scientific computing society, delivers resources that advance computing as a science and a profession. ACM provides the computing field's premier Digital Library and serves its members and the computing profession with leading-edge publications, conferences, and career resources.
 <!--more-->
-## Loops and Recursive
 
-### Define Struct
+# Loops and Recursive
+
+## Define Struct
 There are many ways to define *struct*, what we should do is that chose a best way to solve problem.
 
 **Example 1**
@@ -32,4 +33,26 @@ double dist(Point a, Point b){
 {% endhighlight %}
 
 As you can see from the comparison, **Example 2** is better, which use `typedef struct { define; }struct name; ` to define.
+
+# Asymptotic Growth
+
+## O-notation
+
+- O-notation(Bog-O), When we say “the running time is $O(n^2)$” we mean that the worst-case running time is $ O(n^2)$ – the best case might be better. (渐进上界)
+- When we say “the running time is Ω(n2)” we mean that the best-case running time is $$Ω(n^2)$$ – the worst case might be worse.(渐进下界)
+  
+
+# Recurrences
+
+- Substitution method
+- Recursion-tree method
+- Master method
+
+Simplified Master Theorem:
+
+Let $a \geq 1$ and $b > 1$ be constants and let $T(n)$ be the recurrence $T(n) = aT(\frac{n}{b}) + cn^k$, defined for $n \geq 0$.
+
+1. If $a > b^k$, then $T(n) = \Theta(n^ {log_{a}b})$.
+2. If $a = b^k$, then $T(n) = \Theta(n^ k{logn})$.
+3. If $a < b^k$ then $T(n) = \Theta(n^k)$.
 
