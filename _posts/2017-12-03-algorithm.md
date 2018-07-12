@@ -2,10 +2,11 @@
 layout: post
 title: Basic Algorithm`s Implementation
 key: basicalgorithm
-modify_date: 2017-05-10
+modify_date: 2017-07-12
 tags:
   - Algorithm
 comment: true
+mathjax: true
 ---
 
 <!--more-->
@@ -37,7 +38,14 @@ print(A)
 
 {% endhighlight %}
 
+- Worst-case running time $\Theta(n^2)$:
+  - input sorted or reverse sorted, partition around min or max element.
+  - one side of partition has no elements.
+  - $T(n) = T(0) + T(n – 1) + cn$
+- Expected running time $O(nlgn)$
+  - If we are really lucky, partition splits the array evenly n/2 : n/2: $T(n) = 2T(n/2) + Θ(n) = Θ(n lg n)$
 
+Divide and conquer: partition, pivot
 
 ## 1.2 Selection Sort
 
@@ -57,6 +65,8 @@ selection_sort(A)
 print(A)
 
 {% endhighlight %}
+
+## 1.3 Counting-sort
 
 
 

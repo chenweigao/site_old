@@ -2,6 +2,7 @@
 layout: post
 title: Algorithm Basics
 key: acm
+modify_date: 2018-07-11
 tags:
   - Algorithm
 comment: true
@@ -56,3 +57,27 @@ Let $a \geq 1$ and $b > 1$ be constants and let $T(n)$ be the recurrence $T(n) =
 1. If $a > b^k$, then $T(n) = \Theta(n^ {log_{a}b})$.
 2. If $a = b^k$, then $T(n) = \Theta(n^ k{logn})$.
 3. If $a < b^k$ then $T(n) = \Theta(n^k)$.
+
+# Divide-and-Conquer
+
+**Merge Sort**: $T(n) = O(nlog_{2}n)$
+
+another example:
+
+- Counting Inversions
+- Matrix Multiplication: 
+  - Brute Force(暴力):  $O(n^3)$ arithmetic operations
+  - 
+
+# Heap
+
+## MAX-Heap
+
+Action of build max-heap:
+
+1. 找到最后一个节点的父亲节点
+2. 
+
+## Heapsort
+
+Priority Queues
